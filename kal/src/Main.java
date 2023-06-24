@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Podaj drugą liczbę:");
         druga_l = wej.nextInt();
 
-        System.out.println("dodawanie dwóch liczb - wciśnij +");
+        System.out.println("Dodawanie dwóch liczb - wciśnij +");
         System.out.println("Odejmowanie dwóch liczb - wciśnij -");
         System.out.println("Mnożenie dwóch liczb - wciśnij *");
         System.out.println("Dzielenie dwóch liczb - wciśnij /");
