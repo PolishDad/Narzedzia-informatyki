@@ -63,7 +63,11 @@ public class Main {
                 }
                 else
                 {
+<<<<<<< HEAD
                     System.out.println("Nie dzielimy przez zero!");
+=======
+                    System.out.println("nie dzielimy przez zero!!");
+>>>>>>> gałąź-1
                 }
             }
 
