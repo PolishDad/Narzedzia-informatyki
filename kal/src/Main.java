@@ -63,7 +63,7 @@ public class Main {
                 }
                 else
                 {
-                    System.out.println("Nie dzielimy przez zero!!");
+                    System.out.println("Nie dzielimy przez zero!");
                 }
             }
 
